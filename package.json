@@ -1,0 +1,14 @@
+{
+  "name": "calculatorpractice-main",
+  "version": "1.0.0",
+  "description": "A simple calculator that performs computations in the server.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Banuelos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
